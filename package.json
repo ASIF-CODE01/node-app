@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clear",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASIF-CODE01/node-app.git"
+  },
+  "author": "ASIF SHAIKH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASIF-CODE01/node-app/issues"
+  },
+  "homepage": "https://github.com/ASIF-CODE01/node-app#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.13.1"
+  }
+}
